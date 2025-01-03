@@ -47,4 +47,4 @@ The dataset used in this project was from kaggle [Superstore Dataset](https://ww
 
 I used Power Query to extract the original data (`Sample - Superstore.csv`).
 
-![ETL.png](/C:\Users\Admin\Downloads\SSSuperstoreProject)
+![ETL.png](/ImagesSuperstore/ETL.png)
