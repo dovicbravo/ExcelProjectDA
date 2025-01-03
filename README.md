@@ -2,17 +2,6 @@
 
 *By Dovic Bravo*
 
-# Table of Contents
-
-- ## Introduction
-  - ### Question to Analyze
-  - ### Skills Used
-- ## Dataset
-  - ### Data Information
-- ## Data Cleaning
-  - ### Loading the Data
-  - ### Removing the Unused Columns for Efficiency
-
 ## Introduction 
 
 In this data analysis project, Superstore Giant business would like to understand which products, regions, categories, and customer segments they should target or avoid.
@@ -45,6 +34,17 @@ The dataset used in this project was from kaggle [Superstore Dataset](https://ww
 
 ### Loading the Data
 
-I used Power Query to extract the original data (`Sample - Superstore.csv`).
+- I used **Power Query** to extract the original data (`Sample - Superstore.csv`).
 
 ![ETL.png](/ImagesSuperstore/ETL.png)
+
+- I duplicated the original data and removed unusable columns.
+
+![ETL2.png](/ImagesSuperstore/ETL2.png)
+
+## Data Analysis
+
+I used **Pivot Tables** to organize the data and gain insights.
+
+### Products and Categories
+
